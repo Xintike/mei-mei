@@ -13,13 +13,13 @@
 	font-size: 30px;
 	margin:60px 0 10px 45px;
 }
-table{
+.news-list table{
 	margin:50px;
 	font-family: 微軟正黑體;
 	font-size: 25px;
 	float:left;
 }
-td{
+.news-list td{
 	width:400px;
 	height:200px;
 	border-radius:3px ;
@@ -29,7 +29,7 @@ td{
 	vertical-align: middle;
 }
 
-td b{
+.news-list td b{
 	width:380px;
 	display:block;
 	float:left;
