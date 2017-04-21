@@ -540,14 +540,7 @@ td{
 	background: white;
 	border:3px solid purple;
 }
-.content h2{
-	text-align: center;
-	padding:10px;
-	border-bottom: 2px solid gray;
-	font-weight: bold;
-	font-size: 30px;
-	margin:60px 0 10px 45px;
-}
+
 .news-list table{
 	margin:50px;
 	font-family: 微軟正黑體;
@@ -637,7 +630,7 @@ td{
 	padding:10px;
 	text-align: center;
 	font-weight: bold;
-	border-bottom: 2px solid gray;
+	
 }
 .why-choose ul{
 	font-family: 微軟正黑體;
@@ -746,8 +739,8 @@ td{
 .service-name{
 	z-index:5;
 	position:relative;
-	left:90px;
-	top:-55px;
+	left:120px;
+	top:5px;
 }
 .service-column img{
 	width:200px;
@@ -755,7 +748,7 @@ td{
 	border:5px solid white;
 	border-radius: 3px;
 	z-index: 1;
-	margin:-60px 90px 30px 90px;
+	margin:5px 90px 30px 90px;
 }
 .see-more{
 	background: white;
